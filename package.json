@@ -1,0 +1,16 @@
+{
+  "name": "matrix-get-folder",
+  "version": "0.1",
+  "description": "A matrix bot that sends you the contents of a folder",
+  "main": "index.js",
+  "author": "RDSK",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "matrix-js-sdk": "^2.2.0-rc.2",
+    "uuid": "^3.3.2"
+  }
+}
