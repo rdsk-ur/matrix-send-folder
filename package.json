@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "archiver": "^3.0.0",
-    "matrix-js-sdk": "^2.2.0-rc.2",
+    "matrix-js-sdk": "^19.7.0",
     "uuid": "^3.3.2"
   }
 }
